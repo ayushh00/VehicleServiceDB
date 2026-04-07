@@ -3,16 +3,6 @@
 
 ---
 
-## Team Members
-
-| Roll No. | Name       | Contribution                              |
-|----------|------------|-------------------------------------------|
-|          | Student 1  | ER Diagram, Relational Model, Normalization |
-|          | Student 2  | SQL Queries, DDL, Sample Data Insertion   |
-|          | Student 3  | MongoDB, Report Writing, Viva Preparation |
-
----
-
 ## About the Project
 
 This project is a database design for a **Vehicle Service Management System**.
